@@ -3,9 +3,8 @@
 Αυτό είναι ένα παράδειγμα README.md αρχείου.
 
 ## Περιεχόμενο
-- Δημιουργήθηκε σύμφωνα με τις οδηγίες του μαθήματος L2133
-- Χρησιμοποιεί Markdown syntax
-- Τίτλος με μία δίεση (#)
+- Δημιουργήθηκε σύμφωνα με τις οδηγίες του μαθήματος.
+
 
 ## Σύνδεσμος Repository
-https://github.com/[το_username_σου]/example-readme
+https://github.com/[lefteragas]/example-readme
